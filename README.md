@@ -1,6 +1,4 @@
 # SQL-Essentials
-My personal notes I made to learn `SQL`.
-Perhaps I can apply it on the upcoming projects.
 
 ## What is SQL?
 - **SQL** stands for Structured Query Language.
